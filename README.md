@@ -1,4 +1,4 @@
-# @lightner/discord.js.
+# @lightner/discord.js.ez
 
 ## Intro
 
