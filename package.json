@@ -1,0 +1,34 @@
+{
+  "name": "@lightner/discord.js.ez",
+  "version": "0.1.0-Beta",
+  "description": "An easier to use version of DiscordJS made for the rookies",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightnerDev/discord.js.ez.git"
+  },
+  "keywords": [
+    "discord",
+    "discordjs"
+  ],
+  "author": "Lightner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LightnerDev/discord.js.ez/issues"
+  },
+  "homepage": "https://github.com/LightnerDev/discord.js.ez#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
