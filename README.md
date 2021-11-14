@@ -16,7 +16,7 @@ Heyy! You're probably my friends! If not, then thanks for coming here! This pack
 You first have to install the module
 
 ```sh-session
-npm install https://github.com/LightnerDev/discord.js.ez#master
+npm install discord.js.ez@github:LightnerDev/discord.js.ez
 ```
 
 Then create `index.js`
